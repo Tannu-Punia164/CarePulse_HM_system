@@ -22,7 +22,7 @@ const About = () => {
     </div>
     
     <div className='flex flex-col md:flex-row mb-20'>
-      <div className='border px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-primary hover:text-white transition-all duration-300 text-gray-600 cursor-pointer '>
+      <div className='border px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-purple-100 hover:text-black transition-all duration-300 text-gray-600 cursor-pointer '>
    <b>Efficiency:</b>
    <p>Streamlined Appointment Scheduling That Fits Into Your Busy Lifestyle.</p>
       </div>
@@ -30,7 +30,7 @@ const About = () => {
 <b>Convenience:</b>
 <p>Access To A Network Of Trusted Healthcare Professionals In Your Area.</p>
       </div>
-      <div  className='border px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-primary hover:text-white transition-all duration-300 text-gray-600 cursor-pointer '>
+      <div  className='border px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-purple-100 hover:text-black transition-all duration-300 text-gray-600 cursor-pointer '>
 <b>Personalization:</b>
 <p>Tailored Recommendations And Reminders To Help You Stay On Top Of Your Health.</p>
       </div>
