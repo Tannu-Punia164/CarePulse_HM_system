@@ -6,7 +6,7 @@
 }
 
 @theme {
-    --color-primary: #5F6FFF;
+    --color-primary: #14b8a6;
     --grid-template-columns-auto: repeat(auto-fill, minmax(200px, 1fr));
 }
 .active hr{
